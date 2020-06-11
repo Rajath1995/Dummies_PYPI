@@ -1,4 +1,7 @@
-
+Metadata-Version: 1.0
+Name: Multiple-dummies
+Version: 2.0
+Summary: 
 
 This Package will implement dummy columns for a column with multiple values.
 
@@ -25,3 +28,10 @@ dummies.create_dummies()
 Step 3 : Result obtained.
 
 The output will be the dataframe with all the dummy columns attached to the original dataframe and the original column with multiple values will be dropped.
+Home-page: UNKNOWN
+Author: Rajath Nagaraj
+Author-email: rnagara1@mtu.edu
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
